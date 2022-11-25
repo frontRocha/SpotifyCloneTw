@@ -16,8 +16,8 @@ module.exports = {
         'green-main': '#1ED760'
       },
       backgroundImage: theme => ({
-        'spotify-theme': "url('src/Assets/bursts.svg')",
-        'spotify-theme-mobile': "url('src/Assets/bursts-mobile.svg')",
+        'spotify-theme': "url('https://raw.githubusercontent.com/frontRocha/SpotifyCloneTw/00574f5362736e648f7d7a2617a468c414210cbf/src/Assets/bursts-mobile.svg')",
+        'spotify-theme-mobile': "url('https://raw.githubusercontent.com/frontRocha/SpotifyCloneTw/00574f5362736e648f7d7a2617a468c414210cbf/src/Assets/bursts.svg')",
       }),
       backgroundSize: {
         '175%': '175%',
