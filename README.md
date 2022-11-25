@@ -1,13 +1,12 @@
 ## Clone da página home do Spotify
 
-este mini projeto foi feito com tailwind acompanhado de um curso da udemy
-
+Este mini projeto foi feito com tailwind acompanhado de um curso da udemy
 
 <h2 align="center"><strong>Preview</strong></h2>
 <div align="center">
 <img width=500px src="https://raw.githubusercontent.com/frontRocha/SpotifyCloneTw/master/src/Assets/desmonstracao.gif" />
 </div>
 
-## voce pode encontra-lo aqui:
+## Você pode encontra-lo aqui:
 
-<a href="https://spotifytw.vercel.app">site</a>
+<a href="https://spotifytw.vercel.app">Site</a>
