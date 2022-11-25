@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom"
 import spotifyLogo from '../../../Assets/spotify-logo.png'
-
+ 
 export default function Header() {
     return(
         <header>
