@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom"
 
-export default function Home() {
+export default function Teste() {
     return (
         <main>
             <div className="flex flex-col justify-center text-center bg-spotify-theme-mobile md:bg-spotify-theme bg-banner-mobile md:bg-banner bg-195% md:bg-175% bg-purple-main text-green-main py-40 px-4">

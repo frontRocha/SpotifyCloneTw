@@ -1,7 +1,8 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Footer from '../Components/Layout/Footer/Footer'
-import Header from "../Components/Layout/Header/Header";
-import Home from "../Pages/Home/Home"
+import Footer from "../Components/Layout/Footer/Footer.jsx";
+import Header from "../Components/Layout/Header/Header.jsx";
+import Teste from "../Pages/teste/Teste.jsx";
+
 
 
 export default function Router() {
@@ -9,7 +10,7 @@ export default function Router() {
         <BrowserRouter>
             <Header />
             <Routes>
-                <Route path="/" element={<Home />}/>
+                <Route path="/" element={<Teste />}/>
             </Routes>
             <Footer />
         </BrowserRouter>
